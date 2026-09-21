@@ -367,6 +367,12 @@
             "sha1": "c2eed044cf95d3f852ee7024e4e55ba5bf05fa99"
         },
         {
+            "name": "DJ Hero (USA) (En,Fr)",
+            "crc": "1538E933",
+            "md5": "d07a85031e8de2253453204f6fae577c",
+            "sha1": "f7c5d2f5f985c7986c16611cdcc578724204765a"
+        },
+        {
             "name": "Dance Dance Revolution - Winx Club (Europe) (En,Fr,De,Es,It)",
             "crc": "273A0281",
             "md5": "db8644951fa62fdd4232f9e222ce3c3a",
@@ -625,12 +631,6 @@
             "sha1": "0bb2bc1759f26ac4a72ca51896877a89de48ee2d"
         },
         {
-            "name": "Fatal Frame 4 - The Mask of the Lunar Eclipse (BR)",
-            "crc": "A9820C46",
-            "md5": "bd5684b5fda19f6fa591efa428386291",
-            "sha1": "26f60aff2e4b0fc6bf6d37aaefc02a8a3ad27a08"
-        },
-        {
             "name": "Final Fantasy Crystal Chronicles - My Life as a King (Europe) (WiiWare)",
             "crc": "C535BAF5",
             "md5": "a89cb7ef1333cc9da6af1a9c856fcd93",
@@ -751,10 +751,22 @@
             "sha1": "ac151d4a473726051fc946c33e1b1c29bb1c7880"
         },
         {
+            "name": "Grey's Anatomy - The Video Game (USA) (En,Fr,Es)",
+            "crc": "8CBD8063",
+            "md5": "0ff5331d2c9b97cedec9520230f212a9",
+            "sha1": "2b227d3f3313c18b9b654d84ca7c31a04e99e556"
+        },
+        {
             "name": "Grill-Off with Ultra Hand! (USA) (Club Nintendo) (WiiWare)",
             "crc": "4FB2AC67",
             "md5": "ccf1313792dbcb7d921e258ff9f829e3",
             "sha1": "40edc95bd0591a483864491d104c9e2b39a08371"
+        },
+        {
+            "name": "Guilty Gear XX Accent Core Plus (USA)",
+            "crc": "B25C1B3D",
+            "md5": "4e996c039338b70b3b274f0a4ebb1690",
+            "sha1": "162da65d13f1f3553cf165dec432024e8c71eac4"
         },
         {
             "name": "Guitar Hero - Warriors of Rock (USA) (En,Fr)",
@@ -905,6 +917,12 @@
             "crc": "53DF70D3",
             "md5": "fb556b3637c52e6aa448b95b94de3d5b",
             "sha1": "bace36787df40c233429e498ca15185d1a79e0ec"
+        },
+        {
+            "name": "Kirby's Dream Collection - Special Edition (USA)",
+            "crc": "092D3F07",
+            "md5": "8980ba6d7e0e9373d77a9e70c30614ea",
+            "sha1": "aa78f373322b5b7fa085b1b5e524eefe2307c028"
         },
         {
             "name": "Kirby's Epic Yarn (Europe) (En,Fr,De,Es,It)",
@@ -1393,6 +1411,12 @@
             "sha1": "588e41da6b55633ced2d388b7625206c9f4ffda4"
         },
         {
+            "name": "NSMB - Newer Super Mario Bros. Wii (v1.3) (Newer Team)",
+            "crc": "69DDA926",
+            "md5": "65fdac5fd08318cd4de2e663748529bd",
+            "sha1": "7554a6df0663249ee7726bab89d0e3487a491e77"
+        },
+        {
             "name": "Naruto - Clash of Ninja Revolution (USA)",
             "crc": "FF0F9445",
             "md5": "5092247106e2c09aa70db096a828a858",
@@ -1535,6 +1559,42 @@
             "crc": "ADEF5D0A",
             "md5": "b367207067885486597a20b3f880215c",
             "sha1": "f5cbc17c4c8ce18de3ccfcec8f83fd03154e8050"
+        },
+        {
+            "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Italy) (WiiWare)",
+            "crc": "2D592AF1",
+            "md5": "d16e3babd1ee117561093b063a10c0a0",
+            "sha1": "aa4e7686b2b01b04a0cb43149d5d7f928260ea25"
+        },
+        {
+            "name": "Phoenix Wright - Ace Attorney - Trials and Tribulations (Spain) (WiiWare)",
+            "crc": "7C798912",
+            "md5": "ec8175064cc667b9076dee874e837c21",
+            "sha1": "c7e855c2c77d9f306148ab80cc7c252b3d6b63c4"
+        },
+        {
+            "name": "Phoenix Wright - Ace Attorney Trials and Tribulations (Europe) (WiiWare)",
+            "crc": "370D7349",
+            "md5": "43c9fbc3846751991d88306ab6469f65",
+            "sha1": "221ab5c5b655d812016dd7f9c2ecad856f0375b0"
+        },
+        {
+            "name": "Phoenix Wright - Ace Attorney Trials and Tribulations (France) (WiiWare)",
+            "crc": "7B6630D8",
+            "md5": "528da20fd1616ae17283d634f0f12f5d",
+            "sha1": "1529fb78258cb99039e2117fe95c92ceedd055ab"
+        },
+        {
+            "name": "Phoenix Wright - Ace Attorney Trials and Tribulations (Germany) (WiiWare)",
+            "crc": "2F363A91",
+            "md5": "eec265e76b7f62bbde2ba1dd9bf97afd",
+            "sha1": "a7d7df335ea68f53dbeb91b87d334a41311680e1"
+        },
+        {
+            "name": "Phoenix Wright - Ace Attorney Trials and Tribulations (USA) (WiiWare)",
+            "crc": "D2B5277B",
+            "md5": "7ab152528b42194ebe9d11ca10572b20",
+            "sha1": "d561714fcde38a1061b7458ccfdfe7ebbe8cda17"
         },
         {
             "name": "Pikmin (Europe) (En,Fr,De,Es,It)",
@@ -1921,6 +1981,12 @@
             "sha1": "17ef4f8139cdf7d92d6b704cf7824b2d8bbf295f"
         },
         {
+            "name": "Spider-Man - Shattered Dimensions (Europe) (En,Fr,De,Es,It)",
+            "crc": "FCFD63E1",
+            "md5": "db170f49a3b607a201ce7fb39a0ed722",
+            "sha1": "478a831a479c61d0c31c9f4d21a5cf59288616e3"
+        },
+        {
             "name": "Spy Fox in Dry Cereal (Europe) (En,Fr,De,Nl)",
             "crc": "371685D3",
             "md5": "a2afef01e64aabff447ceac63131b8d1",
@@ -2255,6 +2321,12 @@
             "crc": "09ED2734",
             "md5": "2f2ce8c00a78d218e618c5870d633b06",
             "sha1": "77a74a7f353d1fa32062b4570f94b0a5bda605f8"
+        },
+        {
+            "name": "Zero - Tsukihami no Kamen (Japan) (Pt) (v1.0) (Project Zero Brasil)",
+            "crc": "74B12A14",
+            "md5": "f8498b29094782faa43fb89863b58a98",
+            "sha1": "94226db6596930f3ad1204b80cd6c1779e319841"
         },
         {
             "name": "de Blob (USA) (En,Fr,Es)",

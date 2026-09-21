@@ -329,10 +329,6 @@
             "sha1": "6ec016090ddc9584f91131169c542ffdb4fcfa94"
         },
         {
-            "name": "Der Herr der Ringe - Taktiken (DE)",
-            "sha1": "fae667b0ab32614358f9b9fd22d7d7f42f95ea31"
-        },
-        {
             "name": "Digimon Adventure (Japan) (En) (v1.2) (Kazari)",
             "sha1": "06969a3cb63f5874edf9fd0115856291f45621bf"
         },
@@ -467,10 +463,6 @@
         {
             "name": "Eiyuu Densetsu - Zero no Kiseki (Japan) (En) (v1.1) (GeoFront Port - WanderingHeiHo)",
             "sha1": "5bdb41ccbc0758f06e7179617fc22e107151bc79"
-        },
-        {
-            "name": "El Se\u00f1or de los Anillos - T\u00e1cticas (ES)",
-            "sha1": "45cfbd24474e9b6b4cc6da3831d7d7200ef926e5"
         },
         {
             "name": "Elder Scrolls Travels, The - Oblivion (USA) (Proto) (2007-02-01)",
@@ -757,6 +749,10 @@
             "sha1": "b0dceafee9e86f6e8efc05d2beebbc42aa368180"
         },
         {
+            "name": "Herr der Ringe, Der - Taktiken (Germany)",
+            "sha1": "fae667b0ab32614358f9b9fd22d7d7f42f95ea31"
+        },
+        {
             "name": "Hexyz Force (USA)",
             "sha1": "1565574c99cb7b3f1dee5a7c444bd1414c7965fe"
         },
@@ -807,10 +803,6 @@
         {
             "name": "Idolmaster Shiny Festa, The - Honey Sound (Japan)",
             "sha1": "0ec73b450b3acbee95a27de69c965717fcc753d0"
-        },
-        {
-            "name": "Il Signore degli Anelli - Tactics (IT)",
-            "sha1": "7a54dc1cce534f38a4d4ba0e2ddad877100fce28"
         },
         {
             "name": "Impossible Game, The (Europe) (minis) (PSN)",
@@ -915,10 +907,6 @@
         {
             "name": "Lara Croft Tomb Raider - Anniversary (Europe) (En,Fr,De,Es,It)",
             "sha1": "68c4447d2e60ae49acb79ae9861880f285cfbdde"
-        },
-        {
-            "name": "Le Seigneur des Anneaux - Tactics (FR)",
-            "sha1": "a55489bdae991d2658b10a34a315153d268fb751"
         },
         {
             "name": "Legend of Heroes II, The - Prophecy of the Moonlight Witch (USA)",
@@ -1355,6 +1343,14 @@
             "sha1": "7e77312b04e3c049a623b68135bc1ab931d05fda"
         },
         {
+            "name": "Seigneur des Anneaux, Le - Tactics (France)",
+            "sha1": "a55489bdae991d2658b10a34a315153d268fb751"
+        },
+        {
+            "name": "Senor de los Anillos, El - Tacticas (Spain)",
+            "sha1": "45cfbd24474e9b6b4cc6da3831d7d7200ef926e5"
+        },
+        {
             "name": "Shadow of Destiny (USA)",
             "sha1": "b45c634c433f026e528c5cd7c5e0d23146137b32"
         },
@@ -1409,6 +1405,10 @@
         {
             "name": "Shinseiki Evangelion - Koutetsu no Girlfriend 2nd -portable- (Japan) (En) (v1.02) (Mugi)",
             "sha1": "2d11627b6c7aa9e1b130871676fc76654e2ab878"
+        },
+        {
+            "name": "Signore degli Anelli, Il - Tactics (Italy)",
+            "sha1": "7a54dc1cce534f38a4d4ba0e2ddad877100fce28"
         },
         {
             "name": "Silent Hill Origins (USA) (En,Fr,De,Es,It)",

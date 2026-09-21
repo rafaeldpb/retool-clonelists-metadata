@@ -1447,6 +1447,12 @@
             "sha1": "24e8aadc463738c0b6cdb84f431baca3a1a09e71"
         },
         {
+            "name": "Fear Effect 2 - Retro Helix (USA) (Rev 1)",
+            "crc": "DB44182D",
+            "md5": "fe4e5f2375bb29a6ad1361cd1e9d4e5d",
+            "sha1": "61603c2c10a388b8917ca38a3b0a626bcbbad9be"
+        },
+        {
             "name": "Felony 11-79 (USA)",
             "sha1": "7e70d4a383ff09e038c2b0411cc59597f4f53c0f"
         },
@@ -1483,7 +1489,7 @@
             "sha1": "96a91cb6b297d0f0f601c56167bffbcb9ad0f7af"
         },
         {
-            "name": "Final Fantasy IX (USA, Canada) (Disc 1) (Rev 1)",
+            "name": "Final Fantasy IX (USA, Canada) (Rev 1)",
             "crc": "B44CD90F",
             "md5": "6b3f541609de0cad13eb70f53266c678",
             "sha1": "55e2d91f2d3d58b878abe23b025bcef512d6c5ff"
@@ -2723,6 +2729,10 @@
             "sha1": "92c556f9322cfce7a16b649d757667dc0a9b573b"
         },
         {
+            "name": "Ningyo no Rakuin (Japan)",
+            "sha1": "d041b7e6d98187ae8fc7193a77f3818c96c27903"
+        },
+        {
             "name": "Ninja - Shadow of Darkness (USA)",
             "sha1": "e626f205cce5a8f52a2dd8fd9c116f06ee554153"
         },
@@ -3331,6 +3341,10 @@
             "sha1": "dd01b4d3c434e256af4f1be9e7ba11e94568c729"
         },
         {
+            "name": "Resident Evil 3 - Nemesis - Hard Mode (v1.0) (Daniel Street Evil)",
+            "sha1": "830ad7ca4019bd9af116a0438d3bc4e974f18766"
+        },
+        {
             "name": "Resident Evil 3 - The Only One (v1.1) (BiohazardEsp)",
             "sha1": "a7160e383267e05b6eec3b96a9e0bac124411977"
         },
@@ -3455,6 +3469,10 @@
         {
             "name": "Rollcage Stage II (USA)",
             "sha1": "508f6e5bf1321077b0936c7f9d25fc4c024c2f84"
+        },
+        {
+            "name": "Runabout 2 (USA)",
+            "sha1": "fdba21511ea15648c6cf4b3eb4f70b6dc41e0483"
         },
         {
             "name": "Running Wild (USA)",
@@ -4067,6 +4085,10 @@
             "sha1": "5698e5d5dbba7dffd7adb210036df809fc4fde40"
         },
         {
+            "name": "Tall - Infinity (USA)",
+            "sha1": "0f366c35545b2dbd0f2ba3ff7b7ce61cfd7debb6"
+        },
+        {
             "name": "Tall - Twins Tower (Japan)",
             "sha1": "d11c6a272e5b37603566f507bfdab24966ee3e5c"
         },
@@ -4381,6 +4403,10 @@
             "sha1": "52e425ec9819b56e261c6406cb5ac03ba4e7ed3b"
         },
         {
+            "name": "Trick'n Snowboarder (USA)",
+            "sha1": "4c80f27275aabb58d6bd263f63261fb0862a9abd"
+        },
+        {
             "name": "Turbo Prop Racing (USA)",
             "sha1": "d00b7e9abb6a27739bca3425741e4d1e70492452"
         },
@@ -4597,6 +4623,10 @@
             "sha1": "93c14759197dc80486d6a86b17a75d7e5ef10400"
         },
         {
+            "name": "X-Men - Children of the Atom (USA)",
+            "sha1": "db53105be644f4e24440b3e98bf8971feeb69d52"
+        },
+        {
             "name": "X-Men - Mutant Academy (USA)",
             "sha1": "f278224ff06ea10c46abe85145ab124b043ff000"
         },
@@ -4649,6 +4679,16 @@
         {
             "name": "Yetisports World Tour (Europe) (En,Fr,De,Es,It)",
             "sha1": "6d5c9d9f575834bdfa767e32153fe16ffc7446ae"
+        },
+        {
+            "name": "You Don't Know Jack (Germany)",
+            "sha1": "162caffc8aea3dbd84b2da4d3640e9cfd12a7a33"
+        },
+        {
+            "name": "You Don't Know Jack (USA)",
+            "crc": "1E694404",
+            "md5": "1604ea8763c0539c6ab6b65e54fd4148",
+            "sha1": "309abc8d8278515bae1dd4f377dab7bf54580130"
         },
         {
             "name": "Yu-Gi-Oh! Forbidden Memories (USA)",

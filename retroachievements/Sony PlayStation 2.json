@@ -149,6 +149,10 @@
             "sha1": "7cd29c1fa0c432a70fed01af9d7dc92339337f1b"
         },
         {
+            "name": "All-Star Fighters (Europe)",
+            "sha1": "801981691139fd3f44cf81724305cf4709902c39"
+        },
+        {
             "name": "Amplitude (USA)",
             "sha1": "9d539c3313c92d16cc1b6a5ac5eb8466927d97d5"
         },
@@ -235,6 +239,10 @@
         {
             "name": "Asterix at the Olympic Games (Europe) (En,Fr,De,Es,It)",
             "sha1": "0082f8966c0ffd5aa4a4a5b9d6c6e7f58249aae0"
+        },
+        {
+            "name": "Asterix aux Jeux Olympiques (France) (En,Fr,De,Es,It,Nl)",
+            "sha1": "ed9882a015daf7d29e3eaf9715f400eb8874e61c"
         },
         {
             "name": "Atelier Iris - Eternal Mana (USA)",
@@ -397,6 +405,10 @@
             "sha1": "f9336329e129f02b6e4afa2ad2f3d57d407f3e24"
         },
         {
+            "name": "Brothers in Arms - Road to Hill 30 (USA)",
+            "sha1": "60b62c6e8dcf1ee6c658c36e1a31b576ed7597d6"
+        },
+        {
             "name": "Buffy the Vampire Slayer - Chaos Bleeds (USA)",
             "sha1": "c66492f8ff12bd24c6ac1497e0694e2379577d68"
         },
@@ -475,6 +487,14 @@
         {
             "name": "Carol Vorderman's Sudoku (USA)",
             "sha1": "d39cd17fb431d19a3ae1c48e04740d4f14c62e5e"
+        },
+        {
+            "name": "Casper - Spirit Dimensions (USA)",
+            "sha1": "5e81e7dad85536ced2d01e4712835d4c8c3f7594"
+        },
+        {
+            "name": "Casper and the Ghostly Trio (Europe) (En,Fr,De,Es,It,Nl)",
+            "sha1": "132f4ba9c302e750e4cd7a1e655de2affbbc6eab"
         },
         {
             "name": "Castlevania - Curse of Darkness (USA)",
@@ -979,6 +999,10 @@
             "sha1": "cd9f8598fec9d167252763ceecc3756471c9c284"
         },
         {
+            "name": "DoDonPachi Dai-Ou-Jou (Japan)",
+            "sha1": "83d944ea9dba6e5af34aacf9a40536d1b4dde85f"
+        },
+        {
             "name": "Dog of Bay (Japan)",
             "sha1": "e990fddc4d6a0025dfb55cbb0a78517315f600f5"
         },
@@ -1469,6 +1493,10 @@
         {
             "name": "Formula One 06 (Subset - Multiplayer)",
             "sha1": "8f079e21075369ba4f9d8d065187d877f587f577"
+        },
+        {
+            "name": "Freedom Fighters (USA)",
+            "sha1": "57d9cbeddc09495e1a86e7a337502f76df2d7fd9"
         },
         {
             "name": "Freekstyle (USA)",
@@ -2117,6 +2145,10 @@
             "sha1": "eecd7a8f02c3b7480cb2ab6d7219dbc0ecb10bfc"
         },
         {
+            "name": "Jaws Unleashed (USA)",
+            "sha1": "c43f82a8e275e852763e53341ef40d4f0bc2855d"
+        },
+        {
             "name": "Jaws Unleashed (USA) (SLUS-21062) (EF14724A) (God Mode Disabled)",
             "sha1": "1ff644a72645b9ba9f8f5549af08083aff5ae6fc"
         },
@@ -2155,6 +2187,10 @@
         {
             "name": "Ka (Japan)",
             "sha1": "9374622b79b6cbf33487759709f7738d6ac2e124"
+        },
+        {
+            "name": "Kaido Racer (Europe) (En,Fr,De,Es,It)",
+            "sha1": "ab1b93c46263b8183c9997e1e56b3b1600ca7c9c"
         },
         {
             "name": "Kao the Kangaroo - Round 2 (USA)",
@@ -2681,6 +2717,10 @@
         {
             "name": "Monster Hunter (Japan)",
             "sha1": "839c97fc41ba7835fc1f3a1c64e814b8cc8873e6"
+        },
+        {
+            "name": "Monster Hunter (Japan) (En) (v9) (MH Oldschool)",
+            "sha1": "8ed982a84435913e9f94bb19384d069b784f9ec6"
         },
         {
             "name": "Monster Hunter (Japan) (En) (v9) (MH Oldschool) (MH1JPlus) (v4.2) (Nikki)",
@@ -3503,6 +3543,10 @@
             "sha1": "67c4e2daaf2d64d6b2a3761f31e1ac6fc868bcf1"
         },
         {
+            "name": "Saint Seiya - Sanctuary Juunikyuu-hen (NTSC) (Es) (TeamBT4)",
+            "sha1": "26166ceb6f30a1290e8942ada1caedb762961424"
+        },
+        {
             "name": "Saint Seiya - The Hades (Europe) (En,Ja,Fr,Es,It)",
             "sha1": "29b676158a89196217326e8ce75543ce3744c574"
         },
@@ -3995,6 +4039,10 @@
             "sha1": "300335c6a65d26d1bf2580693ae2adbf09ec7818"
         },
         {
+            "name": "Speed Racer (USA) (En,Fr,Es,Pt)",
+            "sha1": "0b192864798259f86c8b632298c7c833f1122523"
+        },
+        {
             "name": "Spider-Man (USA)",
             "sha1": "f7a9dee90acdd02c512de1b7deff5ca38ba284a9"
         },
@@ -4055,6 +4103,10 @@
             "crc": "3CE54B65",
             "md5": "35e94903ea5dd198abb34aead3f399ea",
             "sha1": "c1adac4fa4f7c6c3e9bee9b714cefddcff40f202"
+        },
+        {
+            "name": "Star Trek - Conquest (USA)",
+            "sha1": "0b4aabf6070472605d512c9f76d9c449134eca70"
         },
         {
             "name": "Star Trek - Voyager - Elite Force (USA)",
@@ -4385,6 +4437,10 @@
             "sha1": "4163bed8dec7f816c4124d325cdedd98ca8b003f"
         },
         {
+            "name": "Tom Clancy's Ghost Recon 2 (USA) (En,Fr,Es)",
+            "sha1": "b8626d6e9c807c5cba4684d8463096ebe37c6b19"
+        },
+        {
             "name": "Tom Clancy's Splinter Cell (USA)",
             "sha1": "32e19e05cb744129e0bda3cd2cec2ad9638994e7"
         },
@@ -4403,6 +4459,10 @@
         {
             "name": "Tony Hawk's American Wasteland (USA) (Collector's Edition)",
             "sha1": "817d26b86cb92170dcccefe55b94c029887d43a8"
+        },
+        {
+            "name": "Tony Hawk's Downhill Jam (USA) (AntiCheat) (v1.0) (Prims)",
+            "sha1": "0d41c4ff36ac41a7c92306860c4fa5482b7d86a1"
         },
         {
             "name": "Tony Hawk's Pro Skater 3 (USA)",
@@ -4547,6 +4607,10 @@
         {
             "name": "WRC - World Rally Championship (USA)",
             "sha1": "d220f802cd4c7752a3fb8b9e67b788984372b151"
+        },
+        {
+            "name": "WRC II Extreme (Europe, Australia) (En,Fr,De,Es,It,Pt,Fi)",
+            "sha1": "73727a42fb90a0656bf305b219feeace249f6a77"
         },
         {
             "name": "WWE SmackDown vs. Raw 2007 (USA)",

@@ -157,6 +157,12 @@
             "sha1": "bbb204c1eb5ca1b6d180c32722955b2c39d2c17b"
         },
         {
+            "name": "Alice Sisters (World) (En,Ja) (2024) (Digital) (Itch.io) (Aftermarket) (Unl)",
+            "crc": "49025566",
+            "md5": "5de0bc863d19ce1b916164ecc3c16ebf",
+            "sha1": "1204d40713560ac57a87c098b2952a1f4a93d4fa"
+        },
+        {
             "name": "Alien 3 (USA, Europe)",
             "crc": "A3B00D6E",
             "md5": "f9e32be60028206b3716f64f2ba0ab00",
@@ -713,6 +719,12 @@
             "crc": "046A48DE",
             "md5": "8844a97b65994de94cf398cf4a3217c3",
             "sha1": "7eae088f0b15e4bcd9a6a38849df5a20446be548"
+        },
+        {
+            "name": "Championship Bowling (USA)",
+            "crc": "1BF92520",
+            "md5": "5923b70dc6740d046ee97cd9e140adf0",
+            "sha1": "ffb469106bc7f475cd89d717035a54cab149c818"
         },
         {
             "name": "Chase H.Q. II (USA)",
@@ -2087,6 +2099,12 @@
             "crc": "56976261",
             "md5": "8bd4d2f51f08380a1ba9ac6cd2070585",
             "sha1": "6aa026e394dba0e5584c4cf99ad1c166d91f3923"
+        },
+        {
+            "name": "Kunio no Nekketsu - School Fighters (World) (v1.7) (Aftermarket) (Unl)",
+            "crc": "49EB730D",
+            "md5": "c93d9ed26e4c92de8502fd2ffe8fb203",
+            "sha1": "80ae8e2677216c37d211f63e19e8dd559d2fe6df"
         },
         {
             "name": "Lakers versus Celtics and the NBA Playoffs (USA, Europe)",

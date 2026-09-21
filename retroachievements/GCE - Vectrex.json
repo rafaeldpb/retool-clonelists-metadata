@@ -1,6 +1,12 @@
 {
     "retroachievements": [
         {
+            "name": "3D Narrow Escape (USA)",
+            "crc": "050BD949",
+            "md5": "f79c596a0205c5e7c427cdbbb1e16918",
+            "sha1": "9e5d23cb7ef111394e1804e105b6dd277c062df6"
+        },
+        {
             "name": "Armor Attack (World)",
             "crc": "B7510971",
             "md5": "9657037a461eee919462eb6a01879685",
@@ -95,6 +101,12 @@
             "crc": "76CF8A06",
             "md5": "92620a41b504045b9cc0d18434ce46a1",
             "sha1": "1fccfcf861abe27410a5683b0db6236bcb5bdadd"
+        },
+        {
+            "name": "Narrow Escape (2-D Version by Fred Taft) (1983) (h1)",
+            "crc": "1EDA284C",
+            "md5": "5c5d5eeb71f51a6fdd4fa6c36e4b2801",
+            "sha1": "34515c515f11afa2f57d4b03d5c213828158b3d5"
         },
         {
             "name": "Pole Position (USA)",

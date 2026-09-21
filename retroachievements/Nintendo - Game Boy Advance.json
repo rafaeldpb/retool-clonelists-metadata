@@ -241,6 +241,12 @@
             "sha1": "95b266e8ecdae1938cd180f597e5f21cb86d8b96"
         },
         {
+            "name": "Backyard Hockey (USA)",
+            "crc": "3A8E31AF",
+            "md5": "ce57edc0645572af5244e3e24b586133",
+            "sha1": "4829aa329e21d9c4822c3df66426b59a7690baa4"
+        },
+        {
             "name": "Baldur's Gate - Dark Alliance (Europe) (En,Fr,De,Es,It)",
             "crc": "494492DC",
             "md5": "b8151c67817f126b56eca07c0b6aec11",
@@ -1799,6 +1805,12 @@
             "crc": "079106D8",
             "md5": "d004c8f14aceb1f861f7277ca3df5cc3",
             "sha1": "28ec1fd8f8450670286bcfacc0bf437272fddfb7"
+        },
+        {
+            "name": "FE8 - The Hag in White (v2.4) (SaintRubenio)",
+            "crc": "7479D7E2",
+            "md5": "6ea329996dc6f918137b4de21af84414",
+            "sha1": "e4bce475b36dd5f2db18c6c4ef04f8e3a7bb70a4"
         },
         {
             "name": "FE8 - The Szechuan Sword - A PostModern Strategy Game (v2023) (Kalastar)",
@@ -4543,10 +4555,22 @@
             "sha1": "9e19e8f97e8619a4755c3ceb482fa3e2ad5a4529"
         },
         {
+            "name": "Pink Panther - Pinkadelic Pursuit (USA)",
+            "crc": "1762A578",
+            "md5": "ba7746952e87a2c85927fa691e7230dd",
+            "sha1": "208c1bcf84856f1f2425cdc32abc10d618fca71d"
+        },
+        {
             "name": "Pirates of the Caribbean - Dead Man's Chest (USA, Europe) (En,Fr,De,Es,It)",
             "crc": "D1A67BE8",
             "md5": "c13785f8c7f0342d4c96c294e600e338",
             "sha1": "3a11c76edaad8fa0845b7da55e8ed26e26e09883"
+        },
+        {
+            "name": "PixelPup",
+            "crc": "77970C29",
+            "md5": "78f5cc71299fdcc2815311d2b003454a",
+            "sha1": "65f8566eb10edb033b86e204ecb28c47c8f5f321"
         },
         {
             "name": "Play Novel - Silent Hill (Japan)",
@@ -5161,6 +5185,12 @@
             "sha1": "7acf9d4c14b570a375402cb4dd2619f910a8a45b"
         },
         {
+            "name": "Pokemon FireRed - No Center Challenge (v2.2) (Cnat)",
+            "crc": "89AD8E18",
+            "md5": "795478d588bf9157209a7f2f0eac2a0b",
+            "sha1": "1eb54c635851f0d10a6f847fe15ce9db32f9da5a"
+        },
+        {
             "name": "Pokemon FireRed - Orange Islands (Beta) (v5.7) (kalarie)",
             "crc": "DE228CD3",
             "md5": "a9ab32e8aa66acf206fb19c3764f29ce",
@@ -5177,6 +5207,18 @@
             "crc": "82084ADD",
             "md5": "dab9c501b5f278fb1ec48a2b53615754",
             "sha1": "436a607878240b869f887bc0e499b6ce1d0531a2"
+        },
+        {
+            "name": "Pokemon FireRed - Pokemon Elysium (Part A) (v2.5) (BlackKaiser)",
+            "crc": "D6EBE711",
+            "md5": "b16d27ee00538824ad70cdbed976b763",
+            "sha1": "d2440fd6bae5a12dfc3cecc129b9bbff22d74b2e"
+        },
+        {
+            "name": "Pokemon FireRed - Pokemon Elysium (Part B) (v2.5) (BlackKaiser)",
+            "crc": "A4A76614",
+            "md5": "fdec9ab03f8c165872ad22ba2277fce2",
+            "sha1": "71bf40178a1f5c69dc1c22099623434ba1e74318"
         },
         {
             "name": "Pokemon FireRed - Pokemon Odyssey (v4.0.0) (Yggdrasil Project)",
@@ -5591,6 +5633,12 @@
             "crc": "7C3CD878",
             "md5": "2a61c47153fae98c6d6dfc1cf2a840e8",
             "sha1": "8a3e6345e12c7cad028ffbfce7b0f3dd6595462a"
+        },
+        {
+            "name": "SMA2-SMW - Just What Do I Need (v1.2) (GbreezeSunset)",
+            "crc": "7957D87F",
+            "md5": "f51a5bf40e073469bcc146dce2c065f4",
+            "sha1": "374ab4f247c7cbf009a0f9730e8a40c96786df24"
         },
         {
             "name": "Sabre Wulf (Europe) (En,Fr,De)",

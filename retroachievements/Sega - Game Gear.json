@@ -31,6 +31,12 @@
             "sha1": "f3b976fefc331f37c3e4d883791eba68890279a5"
         },
         {
+            "name": "Alien Syndrome (Europe)",
+            "crc": "BB5E10E0",
+            "md5": "6c29fc1bae1051774e9a83098f55bd4e",
+            "sha1": "112c7fba070eb7b6bdd41675d49caf934c17dc17"
+        },
+        {
             "name": "Arena (USA, Europe)",
             "crc": "7CB3FACF",
             "md5": "ce3e5094025b10c3885ff1da53a46d2f",
@@ -251,6 +257,12 @@
             "crc": "0EF2ED93",
             "md5": "8431baccd169025f79c9cbc44e31622d",
             "sha1": "6d53f32001d419a5b5e9c16cb62e07e548d2f44a"
+        },
+        {
+            "name": "Dunk Kids (Japan) (En)",
+            "crc": "77ED48F5",
+            "md5": "1d1c50cdbfe605a37d5dcf1250a951df",
+            "sha1": "7525923ba2531d5079d66b2b1156cb5e7d44c66a"
         },
         {
             "name": "Earthworm Jim (USA)",

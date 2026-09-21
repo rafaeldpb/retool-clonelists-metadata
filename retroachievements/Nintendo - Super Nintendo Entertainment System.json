@@ -637,6 +637,18 @@
             "sha1": "af462a9ad781e3021c9a786a2b0c557a0f3559ca"
         },
         {
+            "name": "Ball Bullet Gun (Japan)",
+            "crc": "C1E2BB56",
+            "md5": "b22871e35d219853d268f2297e6937e7",
+            "sha1": "03d23158c196e84368374e153b97c3ef2d1a8166"
+        },
+        {
+            "name": "Ball Bullet Gun (Japan) (En) (v1.0) (Aeon Genesis)",
+            "crc": "B0AD3A59",
+            "md5": "0000684516676e1b97c614d10af5a5dc",
+            "sha1": "008f7e816a79c72f41aefd4d892af385d261c728"
+        },
+        {
             "name": "Barbie Super Model (USA)",
             "crc": "3B73610E",
             "md5": "fdecc2c3cb3c351dad5d54da7999d3c0",
@@ -1373,6 +1385,12 @@
             "crc": "A9671EA3",
             "md5": "3bdc014de7ed0a7de617a872a13cda70",
             "sha1": "de6448bee7492bf78109b83bef76b6c9bf484f81"
+        },
+        {
+            "name": "Chrono Trigger - Schala Edition (v2.2) (Fauntleroy)",
+            "crc": "C22C173F",
+            "md5": "d1b27d8a78536a1d3bcbf076c7befe9d",
+            "sha1": "8c2fecdc40d088f2860b694160a130d344cbaaef"
         },
         {
             "name": "Chuck Rock (Europe)",
@@ -2371,6 +2389,18 @@
             "sha1": "b95db61a29fdfa09a33334d31c4436f29c71e69f"
         },
         {
+            "name": "FFIV - Final Fantasy C2 (v1.00) (Version A) (Tomato)",
+            "crc": "6B915B24",
+            "md5": "690ac0fcf373f7261f164814c064b577",
+            "sha1": "2b392d11598042d5c7e356280cf2ed2d3ab55b1d"
+        },
+        {
+            "name": "FFIV - Final Fantasy C2 (v1.00) (Version B) (Tomato)",
+            "crc": "DAD4073E",
+            "md5": "5efc4af74338cc002d4dbcfb877acde4",
+            "sha1": "288de18ce710db20daa024d961c118129bd5a79e"
+        },
+        {
             "name": "FFIV - The Darkness Within (v1.08) (Rynzer)",
             "crc": "8D54F8B9",
             "md5": "99d3778632b512d714835083b98577d1",
@@ -2609,6 +2639,12 @@
             "crc": "996A2DF3",
             "md5": "caae66dec5b2d9767ea25a464a694edb",
             "sha1": "778842c53700cf0ac7f2a549069d2c5256a74b02"
+        },
+        {
+            "name": "Final Fantasy IV - T-Edition (v1.4) (Tsushiy) (En) (v0.9) (Lazarus_DS,Kain Stryder)",
+            "crc": "153A9698",
+            "md5": "54ba840acbdc42f83529fa31aa86900b",
+            "sha1": "09a278a222af9b92b34c84e60edfd59f82350692"
         },
         {
             "name": "Final Fantasy IV - Ultima (8-bit fan,chillyfeez) (v2022 - Rev 13)",
@@ -3179,6 +3215,24 @@
             "crc": "5847D80F",
             "md5": "fd473bc0035cadd46b8eebdfa619275f",
             "sha1": "3a87e79b8423dcbeaa295164b363201e42cca0aa"
+        },
+        {
+            "name": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan)",
+            "crc": "AF5703EE",
+            "md5": "8c8fc738eae4eb714b43889767daf094",
+            "sha1": "e043f3096f0bd883644287344f18050ee43d69e9"
+        },
+        {
+            "name": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (En) (v1.0) (Aeon Genesis)",
+            "crc": "F9789079",
+            "md5": "9b1e8f4be0cecb88741f51ebeb1e05c9",
+            "sha1": "c342288e97498741ef7438ab9ee4846234a2e3a8"
+        },
+        {
+            "name": "Fushigi no Dungeon 2 - Fuurai no Shiren (Japan) (Rev 1) (NP)",
+            "crc": "824AA6B5",
+            "md5": "6cdd5607e78d7f240ea7aa85565c97c2",
+            "sha1": "19e206b3aded81f47afc1608aa4e452f425244f1"
         },
         {
             "name": "G.O.D - Mezame yo to Yobu Koe ga Kikoe (Japan) (En) (DynamicDesigns) (1.0)",
@@ -3965,6 +4019,12 @@
             "crc": "0C3B4201",
             "md5": "1e5fa71516afa912e0db1dd6ff07d2bc",
             "sha1": "14d4911403854bf0bb59e3a6081181678a23d598"
+        },
+        {
+            "name": "Journey to Kaizo v1.0",
+            "crc": "710F346E",
+            "md5": "4cf780a99ef8bfb7c1b2f90d54873557",
+            "sha1": "899647eaabf627a987c311c9fa40d55b02338379"
         },
         {
             "name": "Judge Dredd (Europe)",
@@ -6601,6 +6661,12 @@
             "sha1": "13fb4964f46ecd4a336b744f0a39fc1a2a0ca955"
         },
         {
+            "name": "Rockman X3 - Anti-Tasverick (v1.0) (jack w willy)",
+            "crc": "B0A52D15",
+            "md5": "4e6d60c65e18eed6c7e5440f1e8f7b7b",
+            "sha1": "e585f15ad8a730c604fd8504f3493ef4b4414073"
+        },
+        {
             "name": "Rocko's Modern Life - Spunky's Dangerous Day (USA)",
             "crc": "197B4CBA",
             "md5": "08dd2df63a638d46ac30c83e1530ae7e",
@@ -6905,6 +6971,12 @@
             "crc": "8CA1AD1A",
             "md5": "d0cb3603e4617bff79f564debe6e51fb",
             "sha1": "4b0387a8ea875356806c1b6a3e25f72712059770"
+        },
+        {
+            "name": "SMW - Attempt at a Normal Hack (v1.11) (ft029)",
+            "crc": "590AF558",
+            "md5": "36dd05f3b71ead91dde3fb68e62d844b",
+            "sha1": "12a5ffb86d44a46c6a2ef3481572e7f15a6b6e32"
         },
         {
             "name": "SMW - Baby Kaizo World (Nowieso)",
@@ -7555,6 +7627,12 @@
             "sha1": "dec98aba180e7ab50f7af01ebe9b6298c5f656ca"
         },
         {
+            "name": "SMW - Law & Order - Mushroom Kingdom Unit - Pilot Episode - Tragic Fox Tails (v1.0.2) (Major Case Squad)",
+            "crc": "2119621F",
+            "md5": "affa75a9cd1f5677a42f0de1f44f184e",
+            "sha1": "8e896f628c47611a27f8fe788de712e26c0fb873"
+        },
+        {
             "name": "SMW - Le plume (v1.1) (FIveFactor,bonjoursauce,drkrdnk)",
             "crc": "CC8116B6",
             "md5": "fdd7bf17dac6d6b06b55abfa715f7c0a",
@@ -7757,6 +7835,12 @@
             "crc": "B011F7AD",
             "md5": "6e4b118fc95ad63f5fbe13f21c4458de",
             "sha1": "105f0d8a491ca8b3101773dbe83044c8f77ae324"
+        },
+        {
+            "name": "SMW - Nachos and Fried Oreos (v1.2) (GbreezeSunset, MiracleWater)",
+            "crc": "FCA16F91",
+            "md5": "a3e792a29aa6db2076a1f530ce5a84df",
+            "sha1": "1949756499a0b957e5c464d2b1259ddba2bb516c"
         },
         {
             "name": "SMW - Nays Nice Hack (v20260806) (Mikeeeeee, Nikarchen)",
@@ -11153,6 +11237,12 @@
             "crc": "55151B89",
             "md5": "f2442601fc27aa8661b070286484d711",
             "sha1": "4b0ac99c1043245eddf0a1ced0745bf2f03039b1"
+        },
+        {
+            "name": "Ultima - Runes of Virtue II (USA)",
+            "crc": "CC4EEBF4",
+            "md5": "27968dfca9cbca44b2d233083ec765ea",
+            "sha1": "4927ba3fe34b891a93dbd9cf4290186062b22138"
         },
         {
             "name": "Ultima - The Black Gate (USA)",

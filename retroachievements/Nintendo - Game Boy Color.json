@@ -103,6 +103,12 @@
             "sha1": "85684d5891e4ec0f9fdf61b644bdf0ffbf1ba219"
         },
         {
+            "name": "Ao Oni - V4",
+            "crc": "BFD186EA",
+            "md5": "bffe620cc51fd5ba14ccc54a03f282fc",
+            "sha1": "0e16f6586a12ef4e5aefd6717ed313af5f9ec60f"
+        },
+        {
             "name": "Arthur's Absolutely Fun Day! (USA)",
             "crc": "F03599A3",
             "md5": "3d630cb2ff52e7fedfca6c938b82fa24",
@@ -131,6 +137,12 @@
             "crc": "28F7D5E3",
             "md5": "e24141ed6fc94b149bbf43b4bd9658e8",
             "sha1": "ef4ab0dd852ffd1418c803c05ddcb245b3a4348d"
+        },
+        {
+            "name": "Austin Powers - Oh, Behave! (USA)",
+            "crc": "BB89190E",
+            "md5": "2aba33e89caca45c9091b25a276dd4c6",
+            "sha1": "aa6cb6ab4fe083cbe0274c40bd30e0013a2f7645"
         },
         {
             "name": "Azure Dreams (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)",
@@ -1663,6 +1675,12 @@
             "sha1": "faa4a6907227f5b6e9523522d34a79a5739d6424"
         },
         {
+            "name": "Maus, Die (Europe) (En,Fr,De,Es)",
+            "crc": "E7BD4A49",
+            "md5": "f9be99d213760ba2e9525abea1de3cb6",
+            "sha1": "23b612ab97b9d5e0454f9ae91b7bdbd50df91131"
+        },
+        {
             "name": "Mayor of Sanctuary, The (World) (GB Compatible) (Aftermarket) (Unl)",
             "crc": "DA6BCF24",
             "md5": "8e8c54501fee6101a0a42df1c23adc5c",
@@ -1955,6 +1973,18 @@
             "crc": "59F67529",
             "md5": "9ba7b607ec310589c5ccfb1a8149df59",
             "sha1": "43bb8621e3d05e81a7faa63cd76b0757f3954ba1"
+        },
+        {
+            "name": "Ms. Pac-Man - Special Color Edition (USA) (SGB Enhanced) (GB Compatible)",
+            "crc": "103E212D",
+            "md5": "4d090ceaa53d571db00d7160ca4be69d",
+            "sha1": "a468f7ad011c1b42ea3144e65607694493e7e4a7"
+        },
+        {
+            "name": "Ms. Pac-Man - Special Colour Edition (Europe) (SGB Enhanced) (GB Compatible)",
+            "crc": "F2335DA9",
+            "md5": "a57d5976214d5f8d52dae5faf4354abb",
+            "sha1": "d0f831165dc9a24e46fed26f90507dadeb5f1e0e"
         },
         {
             "name": "My Saturday Grounded (World) (v2.0) (Aftermarket) (Unl)",
@@ -2917,6 +2947,12 @@
             "sha1": "d3c31e41709c54af328787036db1b98997f508ea"
         },
         {
+            "name": "Submachine GBC (World) (Demo) (Aftermarket) (GB Studio) (Eric Kenneth)",
+            "crc": "3CC250D5",
+            "md5": "ab6b18164411840ebeb952c09c5c900e",
+            "sha1": "743099174b30357b11b63ccb5aced8dfabb142e7"
+        },
+        {
             "name": "Super Breakout! (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)",
             "crc": "6833923D",
             "md5": "3383c2754015c4da7b5295a28ac09739",
@@ -3581,6 +3617,12 @@
             "crc": "4A657067",
             "md5": "17a43887863c2e485ca72940f4738f79",
             "sha1": "e1addd4abc8c770288e94f57a2c1657b4d9642ba"
+        },
+        {
+            "name": "Yume Tenshi v.7.4.3",
+            "crc": "521109D4",
+            "md5": "ec2544c37e506602eeacceaa2f7c843c",
+            "sha1": "18e24d86c99b04224cdc0fa3c2ff8225eb72cbe4"
         },
         {
             "name": "Zelda no Densetsu - Yume o Miru Shima DX (Japan) (Rev 1) (SGB Enhanced) (GB Compatible)",

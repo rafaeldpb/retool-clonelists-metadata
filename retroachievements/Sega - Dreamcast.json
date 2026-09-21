@@ -297,6 +297,10 @@
             "sha1": "c01d94a642a2a4df4e7801babcd369414bfb68b3"
         },
         {
+            "name": "Marvel vs. Capcom - Clash of Super Heroes (USA)",
+            "sha1": "64549a43b6d512a7f34bbb1bda9dfecabc335cd5"
+        },
+        {
             "name": "Marvel vs. Capcom 2 (USA)",
             "sha1": "faf7c3d700fa18e1cb1ceacdf88edcbabc8cd092"
         },
@@ -363,6 +367,10 @@
         {
             "name": "Project Justice (USA)",
             "sha1": "a8033087e56d92474696fb617ab20c4315762e4f"
+        },
+        {
+            "name": "Propeller Arena (USA) (Proto)",
+            "sha1": "59b16e33a42863cdaf83af2213aa06e3cb91be83"
         },
         {
             "name": "Puyo Puyo Da! Featuring Ellena System (Japan)",
@@ -673,6 +681,10 @@
         {
             "name": "Tech Romancer (USA)",
             "sha1": "21215f1d4364f4e1ebb60036766854aab502f775"
+        },
+        {
+            "name": "Test Drive V-Rally (USA) (En,Fr,De)",
+            "sha1": "d1a0e61f16eb16303ef4bd6bb40095f389e24d12"
         },
         {
             "name": "Tokyo Xtreme Racer (USA)",

@@ -781,6 +781,24 @@
             "sha1": "76c681a8f09b44337229e3aa66848e4bfa913865"
         },
         {
+            "name": "Batsu & Terry - Makyou no Tetsujin Race (Japan)",
+            "crc": "5D472584",
+            "md5": "2ed5959c6c54f479d2ff91731cd89bce",
+            "sha1": "febce83a1561df1ce8e697a5955a826b9b8ff881"
+        },
+        {
+            "name": "Batsu & Terry - Makyou no Tetsujin Race (Japan) (En) (v1.0) (Zynk Oxhyde)",
+            "crc": "F95E1716",
+            "md5": "7df2b6531f2158c92909584318fd836b",
+            "sha1": "afb62b943f56e86e56f971a2375998e49bd75231"
+        },
+        {
+            "name": "Batsu & Terry - Makyou no Tetsujin Race (Russia) (Pirate)",
+            "crc": "3998B044",
+            "md5": "40eedaf384fd52769ec62cdf2ccde9d6",
+            "sha1": "e1964b494a3a7c31fe695fbed8c464d9477a442a"
+        },
+        {
             "name": "Battle Kid - Fortress of Peril (USA) (V1.100) (Aftermarket) (Unl)",
             "crc": "01BC580F",
             "md5": "30c532335a5a942e66bafc575edb2ac1",
@@ -1661,6 +1679,12 @@
             "crc": "A39FDD59",
             "md5": "ce5cec9af45a4ddedc51d70d369cf325",
             "sha1": "f2b7e53ed0a29691e3d3294f69a00d0308877494"
+        },
+        {
+            "name": "Choujikuu Yousai - Macross (Japan)",
+            "crc": "EF90CB84",
+            "md5": "d9b540419aac4127aa591978350827b4",
+            "sha1": "f56820e3dd7d97eabdb226249227205765886b0b"
         },
         {
             "name": "Choujin Sentai - Jetman (Japan)",
@@ -4777,6 +4801,12 @@
             "sha1": "82e078a40dd4c270a68281fdf8bffe6f56df15e1"
         },
         {
+            "name": "Itadaki Street - Watashi no Omise ni Yottette (Japan)",
+            "crc": "4995D674",
+            "md5": "87da8028fe2ad9d23a05d0ffb8c3a6fd",
+            "sha1": "26df0d8221c1ca1dc387f49c84feb957d71ee071"
+        },
+        {
             "name": "Ivan 'Ironman' Stewart's Super Off Road (USA)",
             "crc": "C4CA2A2B",
             "md5": "fe75ef763c4d1e1a3e730defb75d3bef",
@@ -6569,6 +6599,12 @@
             "crc": "64DD1BB5",
             "md5": "14752cd1f58fa16d9a3ef317be7456e7",
             "sha1": "15c23e4e20f8c816cb855f275ffb9a5964cb1b6d"
+        },
+        {
+            "name": "Mega Man 5 - Second Strike - Protoman Edition (v1.1) (MetHy)",
+            "crc": "E9266571",
+            "md5": "61765230ec3af68199d0395fec3a0643",
+            "sha1": "af31f9e051fbaf0563ff1c6f9b9755b592b1d150"
         },
         {
             "name": "Mega Man 6 (USA)",

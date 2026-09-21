@@ -43,6 +43,12 @@
             "sha1": "420f0ed3b67f802b5f3ab4bd17167c266f8f36ce"
         },
         {
+            "name": "64 Oozumou (Japan)",
+            "crc": "742E31FB",
+            "md5": "2cf9edb51ada9de2ae7ad9fd5acc5580",
+            "sha1": "e77fe9f2c32870eb7acbcf6a13d26dd022bafe5d"
+        },
+        {
             "name": "A Simple Christmas Eve",
             "crc": "16040DD9",
             "md5": "8576188d08785f0806ef5c3cbc7c6105",
@@ -697,22 +703,10 @@
             "sha1": "942d161abf00b612486388eee98a2c51fc990147"
         },
         {
-            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.01) (ozidual)",
-            "crc": "26CE64F2",
-            "md5": "0ac7a16f8afcc03031835c89d095d7b9",
-            "sha1": "7c443e824d7589d2bd8bd88231ac3acf178def6f"
-        },
-        {
             "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03 - Controller Pak E) (ozidual)",
             "crc": "128D2938",
             "md5": "e2fe94804e7127eb6b78e25e8a775060",
             "sha1": "c3771d8b120b1767a6410f3ebf3c87ef40b701b7"
-        },
-        {
-            "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan) (En) (v1.03) (ozidual)",
-            "crc": "F37A40F6",
-            "md5": "4677619c31c5dfda8448308c558f480d",
-            "sha1": "736112b94fc4bd68c2685e7669398b4774ab3484"
         },
         {
             "name": "Gex 3 - Deep Cover Gecko (USA)",
@@ -1249,13 +1243,13 @@
             "sha1": "a320c83f1987f29ef235d110fe9e2fa8e609c6f4"
         },
         {
-            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0)",
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.0) (Unknown)",
             "crc": "3E00D978",
             "md5": "77bf20d3eca19ebcfc5fed35f5cf65dc",
             "sha1": "eedb6b09b1a4f28b0ff85bf8d18ea5b6f9fc8bd5"
         },
         {
-            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta)",
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v1.5 Beta) (Unknown)",
             "crc": "32D72425",
             "md5": "7fd3ba9b095c244367e84a6e4493349b",
             "sha1": "59ca9a0170ee94ee273d3a558a17c67b9f883603"
@@ -1267,13 +1261,13 @@
             "sha1": "d2aa08bc0e4713e66001db113d9482f72a92054f"
         },
         {
-            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14)",
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v14) (Unknown)",
             "crc": "995532C5",
             "md5": "0d6331c2fa062f20272cc1a7f80f7271",
             "sha1": "5953168bba3772baccfd38bd368e6531e80dca99"
         },
         {
-            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42)",
+            "name": "Legend of Zelda, The - Ocarina of Time (USA) (Pt) (v42) (Unknown)",
             "crc": "7A7BA9B5",
             "md5": "f85fc5ce4451c1e9f3ee00b814489a51",
             "sha1": "90081edf6d03e6b7f6c71749f0dd08b2ed4603de"
@@ -1349,6 +1343,12 @@
             "crc": "008EA583",
             "md5": "bc5263bddf8a4d9e214fb60aab607560",
             "sha1": "29a170cb0dd389d93752563ffd18d06c8735e229"
+        },
+        {
+            "name": "Legend of Zelda, The - Ocarina of Time - Ultimate Trial (v1.23) (RichieUltimate)",
+            "crc": "627C0746",
+            "md5": "fcc30542649d1c53d2175b6ede369e16",
+            "sha1": "fbf45bc39403272f697f0dbc5634e4b88994d1f0"
         },
         {
             "name": "Legend of Zelda, The - Ocarina of Time - Whomp's Fortress (v1.0) (Mark Kurko)",
@@ -2353,6 +2353,18 @@
             "sha1": "bc703c1271cf297fe2fc06c7adf3c6fefe97ba45"
         },
         {
+            "name": "Quest 64 - Hard Mode (v0.9.8.3) (Landmine36)",
+            "crc": "1B86E1C3",
+            "md5": "afb9119978a8040dc968c29a3baaa040",
+            "sha1": "1fef93b4da919c376b1ee1b7977eeaa88d9f45c8"
+        },
+        {
+            "name": "Quest 64 - Hard Mode (v0.9.8.3a) (Landmine36)",
+            "crc": "897E1E4E",
+            "md5": "a0eb48ffaf4567ce1907e07a13a753be",
+            "sha1": "4bb085c4a4392c2940e55da932ab6cf73bd62bbc"
+        },
+        {
             "name": "RR64 - Ridge Racer 64 (USA)",
             "crc": "3C2C2D1C",
             "md5": "990f97d56456fc23e52bd263e709e21e",
@@ -2819,6 +2831,12 @@
             "crc": "FD03D18B",
             "md5": "0806a73f79c1e7a99491b5edfa1081e4",
             "sha1": "aea91c5da8a684bb38864e3653f735662ff1c131"
+        },
+        {
+            "name": "SM64 - Master Quest -3 Mario Swims to China (Cavin856)",
+            "crc": "2AE0A431",
+            "md5": "094c1673671e44ec9532601f2d101865",
+            "sha1": "7e5785f42732350f4ff17990487e3f90c559e207"
         },
         {
             "name": "SM64 - Master Quest 2 Two - Best Buy Edition (v1.1) (Cavin856)",
@@ -3385,16 +3403,22 @@
             "sha1": "67ff4b9ae773a529f76e61896ff4ddaba115feff"
         },
         {
-            "name": "SM64 - Super Mario Star Road (Skelux) (1.01)",
+            "name": "SM64 - Super Mario Star Road (Unknown Rev)",
+            "crc": "6B76ABE3",
+            "md5": "4f79367d5db29a00590377dba46e3b58",
+            "sha1": "c5380328a654513646d758363c88c58ce96b73d1"
+        },
+        {
+            "name": "SM64 - Super Mario Star Road (v1.01) (Skelux)",
             "crc": "5EC9D004",
             "md5": "dc25c74081244916a31472092d78a64d",
             "sha1": "09c0f5b64b34c8822af38385576d028ca8c6ccc0"
         },
         {
-            "name": "SM64 - Super Mario Star Road (Unknown Rev)",
-            "crc": "6B76ABE3",
-            "md5": "4f79367d5db29a00590377dba46e3b58",
-            "sha1": "c5380328a654513646d758363c88c58ce96b73d1"
+            "name": "SM64 - Super Mario Star Road (v1.02) (Skelux)",
+            "crc": "4EF38665",
+            "md5": "b8d9edc42a0c58547469514b3b8e8234",
+            "sha1": "c5839548bb5437937730e59823e33f476304aed1"
         },
         {
             "name": "SM64 - Super Mario Star Road - The Green Comet (v1.3) (English) (biobak)",
@@ -3721,7 +3745,7 @@
             "sha1": "5d7d5046d702dcc0ea56ce1b96eb90f0c984b51a"
         },
         {
-            "name": "SimCity 64 (Japan) (En) (v0.6.38)",
+            "name": "SimCity 64 (Japan) (En) (v0.6.38) (ozidual)",
             "crc": "E3AC7770",
             "md5": "4372f74477fe54cd363fe4f14984625a",
             "sha1": "33b4f0f3dddd447b27d2920c618028fab217e845"
@@ -4549,7 +4573,7 @@
             "sha1": "c8c251e0bb2e69be34d78eeb5e50f63cbe507f8b"
         },
         {
-            "name": "Super Mario 64 (USA) (Pt)",
+            "name": "Super Mario 64 (USA) (Pt) (v1.0) (Unknown)",
             "crc": "DBB1F6DC",
             "md5": "987c3939b2644bbb760d4047223023bb",
             "sha1": "e4f99c4fa8a7198c7a94c331ef7c2a8a63f7f9d7"
@@ -4849,10 +4873,10 @@
             "sha1": "581297b9d5c3a4c33169ae0aae218c742cd9cbcf"
         },
         {
-            "name": "Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.1) (Vanit Studios)",
-            "crc": "5A6B6713",
-            "md5": "ca19a4b2bae3b4950ff967ee9e0857ae",
-            "sha1": "5945ff3935d9d9531bbb5cfcabed7c198e2b2f41"
+            "name": "Tsumi to Batsu - Hoshi no Keishousha (Japan) (En) (v1.0) (Zoinkity)",
+            "crc": "6A19AE94",
+            "md5": "6e51b140a9b0c30d6f55ca7942a969fc",
+            "sha1": "e3906c919236dac6eba020b4b8c1df91fd725c5d"
         },
         {
             "name": "Turok - Dinosaur Hunter (USA)",
